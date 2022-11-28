@@ -18,14 +18,12 @@
 html, body {
     font-family: "Inter", sans-serif;
     font-size: 16px;
+    color: #444444;
+    background-color: white;
 }
 
-p, span, div, li {
-    color: #444444;
-} 
-
 .top_nav {
-    padding-top: 20px;
+    padding-top: 24px;
 }
 
 .nav_link{
@@ -85,12 +83,24 @@ a[href] {
 }
 
 a:hover{
-    color: blue;
+    color: rgb(33, 128, 238);
 }
 
 h1{
     color: black;
 }
+
+.text-2x{
+   font-size: 2rem; 
+}
+
+.text-3x{
+    font-size: 3rem; 
+ }
+
+ .text-4x{
+    font-size: 4rem; 
+ }
 
 .bio_header {
     margin: 10;
