@@ -2,48 +2,68 @@
     <head>
         <title> Shrikant Unde - Work Portfolio </title>
         <meta></meta>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;800;900&display=swap" rel="stylesheet">
+        <link href="./css/index.css" rel="stylesheet" />
     </head>
     <body>
-        <header> 
-            <a href="./resume.html">Resume</a>
+        <header class="container top_nav"> 
+            <a href="./resume.html" class="pr nav_link">Home</a> 
+            <a href="./resume.html" class="pr nav_link">About us</a> 
+            <a href="./resume.html" class="pr nav_link">Blog</a> 
         </header>
-        <div>
-            <div>
-                <img src="./assets/images/profile.jpg" alt="avatar" width="130" height="100"/>
-            </div>
-            <div>
-                <h1>Shrikant Unde</h1>
-                <h6>I am software developer having 10 + years experience</h6>
-                <a href="https://www.hdskills.io/" target="_blank">Downlaod Resume</a>
-                <p>Hi I am Software developer <h4></p>
-            </div>
-            
-        </div>
-        <section>
-            <h1>Experience</h1>
-            <ol>
-                <li>UBS </li>
-                <li>Harman </li>
-                <li>Splitvision </li>
-                <li>Splitvision </li>
-            </ol>
-        <section>
+        <main class="main_container">
+            <div class="container">
+                            <section class="section-margin short_details">
+                                <div>
+                                    <h1 class="heading">Shrikant Unde</h1>
+                                    <span>Tech lead at UBS</span>
+                                    <p id="shrikant_user">Hi, I am software developer having 10 + years of experience. Expertise in Fullstack Web, Frontend, UI Architecture and System Design </p>
+                                    <a href="https://www.hdskills.io/" target="_blank">Downlaod Resume</a>
+                                </div>
+                                <div class="image_center">
+                                    <img src="./assets/images/avatar.jpg" class="image_rounded" alt="avatar" width="100" height="100"/>
+                                </div>
+                            </section>
 
-            <section>
-                <h1>Projects</h1>
-                <ul>
-                    <li>www.hdskills.io</li>
-                    <li>Harman </li>
-                    <li>Splitvision </li>
-                    <li>Splitvision </li>
-                </ul>
-            <section>
+                            <section  class="section-margin">
+                                <h1>Blog</h1>
+                                <div>
+                                    <div class="border_bottom text_underline">Guide to become better Fullstack Web developer </div>
+                                    <div class="border_bottom text_underline">How to build a SAAS Product from start </div>
+                                    <div class="border_bottom text_underline">How to become productive, performant and result driven developer </div>
+                                    <div class="border_bottom text_underline">Tools used by professional developer  </div>
+                                </div>
+                            </section>
 
-                <div onclick="console.log(event)">Click me!</div>
-        <footer>
-            <span>facebbok</span>
-            <span>instagram</span>
-            <span>linkedIn</span>
-        </footer>        
+                            <section  class="section-margin">
+                                    <h1>Projects</h1>
+                                    <ul>
+                                        <li>www.hdskills.io</li>
+                                        <li>tekdone </li>
+                                        <li>coding path </li>
+                                        <li>hdhiring </li>
+                                        <li>FarmBrain </li>
+                                        <li>RemoteWorks </li>
+                                    </ul>
+                            </section>
+
+                            <section class="section-margin">
+                                <h1>Experience</h1>
+                                <ul>
+                                    <li>UBS</li>
+                                    <li>Harman-Samsung</li>
+                                    <li>Splitvision </li>
+                                    <li>Splitvision </li>
+                                </ul>
+                            </section>
+
+                            <div onclick="console.log(event)">Click me!</div>
+            </main>  
+
+            <footer class="container section-margin">
+                <span>facebbok</span>
+                <span>instagram</span>
+                <span>linkedIn</span>
+            </footer>       
     </body>
 </html>

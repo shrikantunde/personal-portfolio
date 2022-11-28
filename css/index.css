@@ -1,0 +1,117 @@
+
+/* html, body {
+    font-family: "Inter", sans-serif;
+    font-size:14px;
+    color: gray;
+}
+
+@font-face {
+    font-family: "Inter",sans-serif;
+    src: url('../assets//font/Inter-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: "Inter",sans-serif;
+    src: url('../assets//font/Inter-Medium.ttf');
+}  */
+
+html, body {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+}
+
+p, span, div, li {
+    color: #444444;
+} 
+
+.top_nav {
+    padding-top: 20px;
+}
+
+.nav_link{
+    text-decoration: none;
+}
+
+.image_center {
+    margin:auto 0;
+}
+
+.image_rounded{
+    border-radius:57px;
+}
+
+.short_details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main_container{
+    display: flex;
+    justify-content: center;
+}
+
+.margin_auto{
+    margin:0 auto;
+}
+
+.container {
+    max-width:750px;
+    margin: 0 auto;
+}
+
+.pr{
+    padding-right: 15px;
+}
+
+.nav_container{
+    display: flex;
+    margin:0 auto;
+    justify-content: flex-start;
+}
+
+.section-margin{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+
+img[src] {
+    background-color: bisque;
+}
+
+a[href] {
+    color:#444444;
+}
+
+a:hover{
+    color: blue;
+}
+
+h1{
+    color: black;
+}
+
+.bio_header {
+    margin: 10;
+    padding: 20;
+    border: 1px solid black;
+}
+
+.hd-border{
+    border: 1px solid gray;
+    border-radius: 18px;
+}
+
+.text_underline:hover{
+    text-decoration: 2px solid underline;
+    text-decoration-color: rgb(0, 255, 119);
+    cursor: pointer;
+}
+
+
+.border_bottom {
+    border-bottom: 1px solid #CDCDCD;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
