@@ -47,8 +47,8 @@ h1,h2,h3,h4,h5,h6 {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-bottom:4rem ;
-    margin-top: 4rem;
+    margin-bottom:64px ;
+    margin-top:64px;
 }
 
 .main_container{
@@ -76,8 +76,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .section-margin{
-    margin-top: 1rem;
-    margin-bottom: 4rem;
+    margin-top: 16px;
+    margin-bottom: 64px;
 }
 
 
@@ -98,15 +98,15 @@ h1{
 }
 
 .text-2x{
-   font-size: 2rem; 
+   font-size: 32px; 
 }
 
 .text-3x{
-    font-size: 3rem; 
+    font-size: 48px; 
  }
 
  .text-4x{
-    font-size: 4rem; 
+    font-size: 64px; 
  }
 
  .pt-4{
