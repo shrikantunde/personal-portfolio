@@ -1,6 +1,6 @@
 # Personal-Portfolio
 
-This personal portfolio website is intended to create learning purpose only. Those who wanted to start Fullstack Web development developer journey can reach out to me..
+This personal portfolio website is intended to create learning purpose only. Those who wanted to start Fullstack Web developer journey can reach out to me..
 
 Whats app - 7758000501 or mail -shrikant9970840920@gmail.com
 
@@ -27,7 +27,8 @@ Completely free bootcamp to start fullstack web developer journey
 - Static - No reposnsive (Responsive website topic covered in other web app)
 - Clean , neat and simple design
 - Everything covered to start Web site development
-- Start to deployment 
+- Start to deployment
+- Beginner friendly 
 
 ## License
 <a href="./LICENSE.txt" />LICENSE</a>
