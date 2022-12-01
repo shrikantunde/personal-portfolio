@@ -2,7 +2,7 @@
 
 This personal portfolio website is intended to create learning purpose only. Those who wanted to start Fullstack Web developer journey can reach out to me..
 
-Whats app - 7758000501 or mail -shrikant9970840920@gmail.com
+Whats app - +91 7758000501 or mail -shrikant9970840920@gmail.com
 
 ## Learn Web essential - Free Bootcamp - 2 weeks
 Completely free bootcamp to start fullstack web developer journey
