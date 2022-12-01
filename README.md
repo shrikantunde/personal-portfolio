@@ -1,4 +1,4 @@
-# shrikant-portfolio
+# Personal-Portfolio
 
 This personal portfolio website is intended to create learning purpose only. Those who wanted to start Fullstack Web development developer journey can reach out to me..
 
@@ -21,6 +21,13 @@ Completely free bootcamp to start fullstack web developer journey
 - Linking Website to Purchased Domain
 - Programming
 - Problem Solving
+
+## Features and Scope
+- Basic Layout
+- Static - No reposnsive (Responsive website topic covered in other web app)
+- Clean , neat and simple design
+- Everything covered to start Web site development
+- Start to deployment 
 
 ## License
 <a href="./LICENSE.txt" />LICENSE</a>
