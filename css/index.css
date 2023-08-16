@@ -153,3 +153,26 @@ h1{
     padding-bottom: 12px;
     padding-top: 12px;
 }
+
+.m-4{
+    margin: 4rem;
+}
+
+.p-4{
+    padding: 4rem;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.project-container{
+    display: flex;
+    gap:1rem;
+}
+
+.card{
+    height: 100px;
+    width:6rem;
+    padding: 2rem;
+}
